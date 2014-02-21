@@ -1,2 +1,0 @@
-docparanoid.github.io
-=====================
